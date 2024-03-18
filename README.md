@@ -3,8 +3,7 @@
 - 🌱 I’m currently Doing Java Tutorials
 - 💞️ I’m looking to collaborate on Any IT Field 
 - 📫 How to reach me [ Email : Maswanganyisuccessfull@gmail.com or WhatsApp : 0726661888 ]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 MaswanganyiSuccess/MaswanganyiSuccess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
