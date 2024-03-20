@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @MaswanganyiSuccess
-- 👀 I’m interested in Java and Web Development
-- 🌱 I’m currently Doing Java Tutorials
-- 💞️ I’m looking to collaborate on Any IT Field 
-- 📫 How to reach me [ Email : Maswanganyisuccessfull@gmail.com or WhatsApp : 0726661888 ]
+👋 Hi, I’m @MaswanganyiSuccess!
 
+👀 I’m interested in Java and Web Development.
 
-<!---
-MaswanganyiSuccess/MaswanganyiSuccess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently, I'm diving into Java tutorials to enhance my skills.
+
+💞️ I’m open to collaborating in any IT field.
+
+📫 You can reach me via email at Maswanganyisuccessfull@gmail.com or WhatsApp at 0726661888.
